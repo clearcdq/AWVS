@@ -1,0 +1,8 @@
+破解方法
+https://www.ddosi.org/awvs-14-5-2/
+
+127.0.0.1 updates.acunetix.com
+127.0.0.1 erp.acunetix.com
+
+
+www.ddosi.org
