@@ -91,8 +91,7 @@ A: 在规则编辑器中创建新规则，或从社区获取现有规则。
 ## 📞 联系方式
 
 - **GitHub Issues** - 提交问题
-- **Email** - clearcdq@gmail.com
-
+- **Email** - 1940507222@qq.com
 ## 📄 许可证
 
 MIT License
